@@ -1,25 +1,15 @@
-DTUANSTORE — DIGITAL SPACE
+DTUANSTORE — LUXE DIGITAL REDESIGN
 
-A responsive personal link page for dtuanstore.
+A complete visual redesign of the dtuanstore personal link page.
 
 FILES
-- index.html: page structure and metadata
-- style.css: responsive editorial-style layout
-- script.js: interactions, reveal effects, share action and SoundCloud player
-- config.js: profile image, social links and playlist settings
-- favicon.svg: site icon
+- index.html: new editorial hero + profile + connection-card layout
+- style.css: midnight navy / champagne / ice palette, responsive rounded glass UI and motion
+- script.js: existing interactions, share action, reveal effects and SoundCloud playlist
+- config.js: existing avatar, social URLs and playlist configuration
+- favicon.svg: site favicon
 
-SOCIAL LINKS (configured in config.js)
-- Zalo contact: http://zalo.me/84327609590
-- Zalo group: https://zalo.me/g/cnrjzjdwwrpnmgjqc8pe
-- Telegram: https://t.me/dtuanstoree
-- TikTok: https://www.tiktok.com/@duongtuanmedia
-- Avatar: https://cdn.upanhlaylink.com/i/gQ3R2zYW.png
-
-MUSIC
-The SoundCloud playlist keeps both configured tracks, starts with the first,
-advances to the next track when it finishes, and loops to the first track.
-Autoplay may be restricted by iOS/Safari until the visitor interacts with the page.
+All existing social destinations, profile image and SoundCloud playlist settings are preserved.
 
 DEPLOYMENT
 Upload all files in this folder to the same directory on your static web host.
